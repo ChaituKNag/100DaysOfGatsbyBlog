@@ -24,7 +24,7 @@ const Root = styled.div`
   );
   border-radius: 10px;
   padding: 20px;
-  margin: 20px auto;
+  margin: 20px;
 `;
 
 export default ({ children }) => (

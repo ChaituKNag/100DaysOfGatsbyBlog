@@ -30,6 +30,7 @@ module.exports = {
           families: ["Open Sans", "Oswald"]
         }
       }
-    }
+    },
+    `gatsby-plugin-twitter`
   ]
 };
